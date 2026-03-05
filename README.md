@@ -75,9 +75,3 @@ Used a Neural Network algorithm to beat a rendishin of the popular game Flappy B
 🔗 https://github.com/Musa1Zubair/Neural-Networks-with-Flappy-Bird
 
 ---
-
-# 📊 GitHub Stats
-
-![Musa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musa1Zubair&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Musa1Zubair&layout=compact&theme=tokyonight)
