@@ -23,7 +23,7 @@
 ## 🌎 Connect With Me
 
 <p align="left">
-<a href="[https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/musa-zubair/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/musa-zubair/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://github.com/Musa1Zubair"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
