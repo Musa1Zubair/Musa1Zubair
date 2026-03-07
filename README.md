@@ -56,7 +56,6 @@
 ![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/intellij%20idea-black?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-red?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Power BI](https://img.shields.io/badge/powerbi-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
 ---
